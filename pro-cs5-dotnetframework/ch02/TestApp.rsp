@@ -1,0 +1,4 @@
+# This is the response file
+/r:System.Windows.Forms.dll
+
+/target:exe /out:TestApp.exe *.cs
